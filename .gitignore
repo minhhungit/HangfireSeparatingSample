@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/HangfireServer/bin/Debug/net8.0
+/HangfireServer/obj
+/HangfireServer/obj/Debug/net8.0/ref/HangfireServer.dll
+/MyWebApp/bin/Debug/net8.0
+/MyWebApp/obj
+/.vs/HangfireSample/FileContentIndex
